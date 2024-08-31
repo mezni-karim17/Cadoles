@@ -11,15 +11,6 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 
 ## Installation
 
-### 1. Cloner le dépôt
-
-Clonez ce dépôt sur votre machine locale :
-
-```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
-
-
 ## Lancer les conteneurs Docker
 docker-compose up --build -d
 
