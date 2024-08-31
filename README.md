@@ -11,10 +11,10 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 
 ## Installation
 
-## Lancer les conteneurs Docker
+### Lancer les conteneurs Docker
 docker-compose up --build -d
 
-## Installer les dépendances
+### Installer les dépendances
 docker-compose exec php bash
 composer install
 
